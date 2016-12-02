@@ -1,4 +1,4 @@
-package Train;
+package OJTrain;
 
 /**
  * Created by bwelco on 2016/11/27.

@@ -1,4 +1,4 @@
-package Train;
+package OJTrain;
 
 import java.util.HashMap;
 import java.util.Iterator;
